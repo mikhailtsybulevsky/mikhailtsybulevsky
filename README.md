@@ -85,6 +85,8 @@
 ## 🎒 Образование
 [<img src="/sertinEng.png" width="280px" hspace="10px" alt="Сертификат»">](https://github.com/mikhailtsybulevsky/mikhailtsybulevsky/blob/main/sertinEng.png)
 [<img src="/sertinRus.png" width="280px" hspace="10px" alt="Сертификат">](https://github.com/mikhailtsybulevsky/mikhailtsybulevsky/blob/main/sertinRus.png)
+[<img src="/sertMiddleinRus.png" width="280px" hspace="10px" alt="Сертификат Middle rus">](https://github.com/mikhailtsybulevsky/mikhailtsybulevsky/blob/main/sertMiddleinRus.png)
+[<img src="/sertMiddleinEng.png" width="280px" hspace="10px" alt="Сертификат Middle eng">](https://github.com/mikhailtsybulevsky/mikhailtsybulevsky/blob/main/sertMiddleinEng.png)
 
 <br>
 <br>
